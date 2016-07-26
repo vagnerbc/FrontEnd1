@@ -1,0 +1,74 @@
+.icon-bar {
+    display: inline-block;
+    /*height: 100%;*/
+    width: 80px;
+    text-align: center;
+    background-color: #555;
+}
+
+.icon-bar a {
+    display: block;
+    padding: 16px;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #4CAF50
+}
+
+section {
+    display: inline-block;
+    width: 49%;
+    height: 150px;
+    background-color: black;
+}
+
+section p {
+    color: white;
+    text-align: center
+}
+
+.section {
+    float: right;
+    width: 90%;
+}
+
+
+@media screen and (max-width: 500px){
+    .section{
+        width: 100%;
+    }
+
+    section {
+        display: block;
+        width: 100%;
+    }
+
+    .icon-bar{
+        width: 100%;
+    }
+
+    .icon-bar a{
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 920px){
+    .section{
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .icon-bar{
+        width: 99%;
+    }
+
+    .icon-bar a{
+        display: inline-block;
+    }
+}
