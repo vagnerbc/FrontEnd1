@@ -1,0 +1,50 @@
+.icon-bar {
+	/*height: 100%;*/
+	width: 90px;
+	text-align: center;
+	background-color: #555;
+}
+
+.icon-bar a {
+	display: block;
+	padding: 16px;
+	color: white;
+	font-size: 36px;
+}
+
+.icon-bar a:hover {
+	background-color: #000;
+}
+
+.active {
+	background-color: #4CAF50
+}
+
+section {
+    display: inline-block;
+    width: 49%;
+    height: 150px;
+    background-color: black;
+}
+
+section p {
+	color: white;
+	text-align: center
+}
+
+
+@media screen and (max-width: 420px){
+	section {
+		display: block;
+		width: 100%;
+
+	}
+
+	.icon-bar{
+		width: 100%;
+	}
+
+	.icon-bar a{
+		display: inline-block;
+	}
+}
