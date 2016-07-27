@@ -3,6 +3,6 @@
  */
 $(document).ready(function(){
     $(".icon-bar a").click(function(){
-       $(this).toggleClass("active");
+        $(this).toggleClass("active");
     });
 });
