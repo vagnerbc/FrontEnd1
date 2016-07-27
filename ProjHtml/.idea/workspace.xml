@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15291215-7f7c-4a5a-a5e0-a53c1712ebac" name="Default" comment="Retirando arquivos antigos&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pages/Page1.html" afterPath="$PROJECT_DIR$/Pages/Page1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjHtml.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="Page1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Page1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="4" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.5427594" vertical-offset="0" max-vertical-offset="877">
+            <state line="23" column="21" selection-start="928" selection-end="928" vertical-scroll-proportion="0.4458381" vertical-offset="0" max-vertical-offset="877">
               <folding />
             </state>
           </provider>
@@ -137,48 +136,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ProjHtml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjHtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -414,7 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/Page1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="4" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.5427594" vertical-offset="0" max-vertical-offset="877">
+        <state line="23" column="21" selection-start="928" selection-end="928" vertical-scroll-proportion="0.4458381" vertical-offset="0" max-vertical-offset="877">
           <folding />
         </state>
       </provider>
